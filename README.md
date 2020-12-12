@@ -1,7 +1,7 @@
 # DSCWOW-VITRUAL_MEETUP
 #letsWoW #DscWoW #echoAR  #VIRTUAL_MEETUP
 
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/logo.jpg?raw=true)
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/p3.jpeg?raw=true)
 
 
 🔨Languages and Tools🔨
