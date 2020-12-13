@@ -3,8 +3,15 @@
 
 ![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/p3.jpeg?raw=true)
 
-# TO SEE THE WORKING OF THIS WEBSITE 
+# TO SEE THE WORKING OF THIS WEBSITE   
 
+https://virtualmeetup.netlify.app/  
+
+
+
+# yotube LINK  
+
+https://www.youtube.com/watch?v=R1d0gv2CVfI  
 
 
 🔨Languages and Tools🔨
@@ -16,27 +23,27 @@
 <img align="left" alt="Unity" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" />
 <img align="left" alt="U" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png" />
 <img align="left" alt="git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />  
 
 
-# ✨Skills✨
+# ✨Skills✨  
 
-VR
-Eye Tracking
-360 Video
-Spatial Audio
-Graphics
-Developer Relations
-Prototyping
-Remote Rendering
+VR  
+Eye Tracking  
+360 Video  
+Spatial Audio  
+Graphics  
+Developer Relations  
+Prototyping  
+Remote Rendering  
 
 
-# Complete Virtual Reality and Augmented Reality Development with Unity
-Unity is the leading platform to develop mixed reality experiences because it provides a great pipeline for working with 3D assets.
+# Complete Virtual Reality and Augmented Reality Development with Unity  
+Unity is the leading platform to develop mixed reality experiences because it provides a great pipeline for working with 3D assets.  
 
-Using a practical and project-based approach, this Learning Path educates you about the specifics of AR and VR development using Unity 2018 and Unity 3D. You’ll learn to integrate, animate, and overlay 3D objects on your camera feed, before moving on to implement sensor-based AR applications. You’ll explore various concepts by creating an AR application using Vuforia for both macOS and Windows for Android and iOS devices. Next, you’ll learn how to develop VR applications that can be experienced with devices, such as Oculus and Vive. You’ll also explore various tools for VR development: gaze-based versus hand controller input, world space UI canvases, locomotion and teleportation, timeline animation, and multiplayer networking. You’ll learn the Unity 3D game engine via the interactive Unity Editor and C# programming.
+Using a practical and project-based approach, this Learning Path educates you about the specifics of AR and VR development using Unity 2018 and Unity 3D. You’ll learn to integrate, animate, and overlay 3D objects on your camera feed, before moving on to implement sensor-based AR applications. You’ll explore various concepts by creating an AR application using Vuforia for both macOS and Windows for Android and iOS devices. Next, you’ll learn how to develop VR applications that can be experienced with devices, such as Oculus and Vive. You’ll also explore various tools for VR development: gaze-based versus hand controller input, world space UI canvases, locomotion and teleportation, timeline animation, and multiplayer networking. You’ll learn the Unity 3D game engine via the interactive Unity Editor and C# programming.  
 
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/P1.jpg?raw=true)
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/P1.jpg?raw=true)  
 
 
 
