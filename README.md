@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=R1d0gv2CVfI
  - Google Cardboard
  - Google VR services  
 
-# Complete Virtual Reality and Augmented Reality Development with Unity  
+# Virtual Reality and Augmented Reality Development with Unity ,Unreal engine 
 Unity is the leading platform to develop mixed reality experiences because it provides a great pipeline for working with 3D assets.  
 
 ![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/P1.jpg?raw=true)  
