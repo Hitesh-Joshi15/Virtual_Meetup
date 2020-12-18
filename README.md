@@ -1,7 +1,7 @@
 # DSCWOW-VITRUAL_MEETUP
 #letsWoW #DscWoW #echoAR  #VIRTUAL_MEETUP
 
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/p3.jpeg?raw=true)
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/p3.jpeg?raw=true)
 
 # TO SEE THE WORKING OF THIS IN THE WEBSITE   
 
@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=R1d0gv2CVfI
 # Virtual Reality and Augmented Reality Development with Unity ,Unreal engine 
 Unity is the leading platform to develop mixed reality experiences because it provides a great pipeline for working with 3D assets.  
 
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/P1.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/P1.jpg?raw=true)  
 
 
 # SMALL EXPLANATION  
@@ -69,12 +69,12 @@ THE MEETING CAN BE AVAILABLE IN DIFFERENT ENVIRONMENTS .
 
 # SNAPSHOT  
 
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/6.jpeg?raw=true)  
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/1.png?raw=true)  
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/2.png?raw=true)  
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/3.png?raw=true)
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/4.png?raw=true)  
-![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/5.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/6.jpeg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/1.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/2.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/3.png?raw=true)
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/4.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/DSCWOW-VITRUAL_MEETUP/blob/main/screenshots/5.png?raw=true)  
 
 
 
